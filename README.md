@@ -1,3 +1,4 @@
 # apna-demo
-this is my first git repo
-author - anchal singh
+this is my first git repo.
+<br>
+author - anchal singh (azamgarh)
